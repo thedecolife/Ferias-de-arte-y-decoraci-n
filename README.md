@@ -1,1 +1,2 @@
-# Ferias-de-arte-y-decoraci-n
+# Ferias-de-arte-y-decoración
+Una librería de arte, bares y restaurantes completan una oferta destinada a convertir la visita a la Feria en un momento confortable. Quizá porque el presidente de la Fundación Mauro Herlitzka es también un coleccionista viajado y directivo de la Fundación Espigas (centro de documentación dedicado al arte argentino), este año se ha reforzado el programa de mesas redondas y debates en torno al arte contemporáneo. 
